@@ -59,15 +59,10 @@
                 "POC-T":"https://github.com/Xyntax/POC-T.git",
                 "wpscan":"docker pull wpscanteam/wpscan",
                 "drupwn":"https://github.com/immunIT/drupwn.git",
-                "dzscan":"https://github.com/code-scan/dzscan.git",
-                "vulmap":"https://github.com/zhzyker/vulmap.git"
+                "dzscan":"https://github.com/code-scan/dzscan.git"
             },
             "Oracle":{
-                "odat":"https://github.com/quentinhardy/odat.git"
-            },
-            "SQL":{
-                "NoSQLAttack":"https://github.com/youngyangyang04/NoSQLAttack.git",
-                "PowerUpSQL":"https://github.com/NetSPI/PowerUpSQL.git"
+                
             }
         },
         "WebApp":{
@@ -76,9 +71,7 @@
                 ""
             },
             "XSS":{
-                "XSStrike":"https://github.com/s0md3v/XSStrike.git",
-                "xsshell":"https://github.com/raz-varren/xsshell.git",
-                "JShell":"https://github.com/s0md3v/JShell.git"
+                
             },
             "LFI":{
                 "LFISuite":"https://github.com/D35m0nd142/LFISuite.git"
@@ -90,8 +83,10 @@
                 
             },
             "SSRF":{
-                "SSRFmap":"https://github.com/swisskyrepo/SSRFmap.git",
-                "Gopherus":"https://github.com/tarunkant/Gopherus.git"
+                
+            },
+            "RCE":{
+                
             },
             "CRLF":{
                 
@@ -108,28 +103,17 @@
         },
         "BruteForce":{
             "SQL":{
-                "enumdb":"https://github.com/m8r0wn/enumdb.git"
+                
             },
             "SSH":{
-                "ssh-scanner":"https://github.com/NewBee119/ssh-scanner.git"
-            },
-            "Multi":{
-                "patator":"https://github.com/lanjelot/patator.git"
+
             }
         }
     },
     "Control":{
-        "WebAPP":{
-            "AntSword-Loader":"https://github.com/AntSwordProject/AntSword-Loader.git",
-            "weevely3":"https://github.com/epinna/weevely3.git",
-            "phpsploit":"https://github.com/nil0x42/phpsploit.git",
-            "Behinder":"https://github.com/rebeyond/Behinder/releases/download/Behinder_v3.0_Beta_7/Behinder_v3.0_Beta_7.zip"
-        }
+        ""
     },
     "Phishing":{
 
-    },
-    "PortForwarding":{
-        
     }
 }

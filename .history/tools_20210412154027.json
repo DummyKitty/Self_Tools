@@ -93,6 +93,9 @@
                 "SSRFmap":"https://github.com/swisskyrepo/SSRFmap.git",
                 "Gopherus":"https://github.com/tarunkant/Gopherus.git"
             },
+            "RCE":{
+                
+            },
             "CRLF":{
                 
             },
@@ -130,6 +133,6 @@
 
     },
     "PortForwarding":{
-        
+
     }
 }
