@@ -3,27 +3,10 @@
         "Subdomain":{
             "Sublist3r":"https://github.com/aboul3la/Sublist3r.git",
             "OneForAll":"https://github.com/shmilylty/OneForAll.git",
-            "Amass":"https://github.com/OWASP/Amass.git",
-            "gobuster":"https://github.com/OJ/gobuster.git"
+            "Amass":"https://github.com/OWASP/Amass.git"
         },
         "CompanyAssets":{
-            "theHarvester":"https://github.com/laramies/theHarvester.git",
-        },
-        "FingerPrint":{
-            "Sn1per":"https://github.com/1N3/Sn1per.git",
-            "wafw00f":"https://github.com/EnableSecurity/wafw00f.git"
-        },
-        "Email":{
-
-        },
-        "Credential":{
-            "Cr3dOv3r":"https://github.com/D4Vinci/Cr3dOv3r.git",
-            "Passhunt":"https://github.com/Viralmaniar/Passhunt.git"
-        },
-        "SensitiveInformation":{
-            "hawkeye":"https://github.com/Ice3man543/hawkeye.git",
-            "LeakScraper":"https://github.com/Acceis/leakScraper.git",
-            "gitleaks":"https://github.com/zricethezav/gitleaks.git"
+            "theHarvester":"https://github.com/laramies/theHarvester.git"，
         }
     },
     "Enumeration":{
@@ -47,10 +30,6 @@
             },
             "Linux":{
                 
-            },
-            "WebVul":{
-                "pocsuite3":"https://github.com/knownsec/pocsuite3.git",
-                "POC-T":"https://github.com/Xyntax/POC-T.git"
             }
         },
         "WebApp":{
@@ -62,7 +41,7 @@
                 
             },
             "LFI":{
-                "LFISuite":"https://github.com/D35m0nd142/LFISuite.git"
+                
             },
             "FileUpload":{
                 
@@ -79,15 +58,9 @@
             "CRLF":{
                 
             },
-            "Upload":{
-                "xupload":"https://github.com/3xp10it/xupload.git"
-            },
-            "ParamsFind":{
-                "Arjun":"https://github.com/s0md3v/Arjun.git"
-            },
-            "API":{
+            "Others":{
                 
-            }
+            },
         },
         "BruteForce":{
             "SQL":{

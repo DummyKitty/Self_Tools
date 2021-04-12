@@ -1,0 +1,78 @@
+{
+    "InfoCollection":{
+        "Subdomain":{
+            "Sublist3r":
+        },
+        "CompanyAssets":{
+            "theHarvester":"https://github.com/laramies/theHarvester.git"，
+        }
+    },
+    "Enumeration":{
+        "DirScan":{
+            "dirsearch":"https://github.com/maurosoria/dirsearch.git"
+        },
+        "PortScan":{
+            "Nmap":{
+                
+            },
+            "Masscan":"https://github.com/robertdavidgraham/masscan.git"
+        },
+        "Dicts":{
+            "SecList":"https://github.com/danielmiessler/SecLists.git"
+        }
+    },
+    "Exploit":{
+        "SystemServer":{
+            "Windows":{
+                
+            },
+            "Linux":{
+                
+            }
+        },
+        "WebApp":{
+            "SQLinjection":{
+                "sqlmap":"https://github.com/sqlmapproject/sqlmap.git",
+                ""
+            },
+            "XSS":{
+                
+            },
+            "LFI":{
+                
+            },
+            "FileUpload":{
+                
+            },
+            "SSTI":{
+                
+            },
+            "SSRF":{
+                
+            },
+            "RCE":{
+                
+            },
+            "CRLF":{
+                
+            },
+            "Others":{
+                
+            },
+        },
+        "BruteForce":{
+            "SQL":{
+
+            },
+            "SSH":{
+                
+            }
+        }
+    },
+    "Control":{
+        ""
+    },
+    "Phishing":{
+
+    }
+}

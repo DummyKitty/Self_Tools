@@ -10,8 +10,7 @@
             "theHarvester":"https://github.com/laramies/theHarvester.git",
         },
         "FingerPrint":{
-            "Sn1per":"https://github.com/1N3/Sn1per.git",
-            "wafw00f":"https://github.com/EnableSecurity/wafw00f.git"
+
         },
         "Email":{
 
@@ -49,8 +48,7 @@
                 
             },
             "WebVul":{
-                "pocsuite3":"https://github.com/knownsec/pocsuite3.git",
-                "POC-T":"https://github.com/Xyntax/POC-T.git"
+                "pocsuite3":
             }
         },
         "WebApp":{
@@ -79,15 +77,9 @@
             "CRLF":{
                 
             },
-            "Upload":{
-                "xupload":"https://github.com/3xp10it/xupload.git"
-            },
-            "ParamsFind":{
-                "Arjun":"https://github.com/s0md3v/Arjun.git"
-            },
-            "API":{
+            "Others":{
                 
-            }
+            },
         },
         "BruteForce":{
             "SQL":{

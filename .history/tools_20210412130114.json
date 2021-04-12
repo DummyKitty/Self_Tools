@@ -10,8 +10,7 @@
             "theHarvester":"https://github.com/laramies/theHarvester.git",
         },
         "FingerPrint":{
-            "Sn1per":"https://github.com/1N3/Sn1per.git",
-            "wafw00f":"https://github.com/EnableSecurity/wafw00f.git"
+            "Sn1per":"https://github.com/1N3/Sn1per.git"
         },
         "Email":{
 
@@ -78,9 +77,6 @@
             },
             "CRLF":{
                 
-            },
-            "Upload":{
-                "xupload":"https://github.com/3xp10it/xupload.git"
             },
             "ParamsFind":{
                 "Arjun":"https://github.com/s0md3v/Arjun.git"
