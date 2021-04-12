@@ -1,0 +1,29 @@
+{
+    "InfoCollection":{
+        "Subdomain":{
+
+        }
+    },
+    "Enumeration":{
+        "DirScan":{
+            "dirsearch":""
+        },
+        "PortScan":{
+
+        }
+    },
+    "Exploit":{
+        "SystemServer":{
+
+        },
+        "WebApp":{
+
+        }
+    },
+    "Control":{
+
+    },
+    "Phishing":{
+
+    }
+}

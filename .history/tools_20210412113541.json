@@ -1,0 +1,66 @@
+{
+    "InfoCollection":{
+        "Subdomain":{
+
+        }
+    },
+    "Enumeration":{
+        "DirScan":{
+            "dirsearch":"https://github.com/maurosoria/dirsearch.git"
+        },
+        "PortScan":{
+            "Nmap":{
+                
+            },
+            "MassScan"
+        },
+        "Dicts":{
+            "SecList":"https://github.com/danielmiessler/SecLists.git"
+        }
+    },
+    "Exploit":{
+        "SystemServer":{
+            "Windows":{
+
+            },
+            "Linux":{
+
+            }
+        },
+        "WebApp":{
+            "SQLinjection":{
+                "sqlmap":""
+            },
+            "XSS":{
+                
+            },
+            "LFI":{
+                
+            },
+            "FileUpload":{
+                
+            },
+            "SSTI":{
+                
+            },
+            "SSRF":{
+                
+            },
+            "RCE":{
+                
+            },
+            "CRLF":{
+                
+            },
+            "Others":{
+                
+            },
+        }
+    },
+    "Control":{
+        ""
+    },
+    "Phishing":{
+
+    }
+}

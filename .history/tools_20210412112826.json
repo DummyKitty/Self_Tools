@@ -1,0 +1,32 @@
+{
+    "InfoCollection":{
+        "Subdomain":{
+
+        }
+    },
+    "Enumeration":{
+        "DirScan":{
+            "dirsearch":"https://github.com/maurosoria/dirsearch.git"
+        },
+        "PortScan":{
+            "Nmap":""
+        },
+        "Dicts":{
+            "SecList":
+        }
+    },
+    "Exploit":{
+        "SystemServer":{
+
+        },
+        "WebApp":{
+
+        }
+    },
+    "Control":{
+
+    },
+    "Phishing":{
+
+    }
+}
