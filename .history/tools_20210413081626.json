@@ -7,7 +7,7 @@
             "gobuster":"https://github.com/OJ/gobuster.git"
         },
         "CompanyAssets":{
-            "theHarvester":"https://github.com/laramies/theHarvester.git"
+            "theHarvester":"https://github.com/laramies/theHarvester.git",
         },
         "FingerPrint":{
             "Sn1per":"https://github.com/1N3/Sn1per.git",
@@ -76,7 +76,7 @@
         },
         "WebApp":{
             "SQLinjection":{
-                "sqlmap":"https://github.com/sqlmapproject/sqlmap.git"
+                "sqlmap":"https://github.com/sqlmapproject/sqlmap.git",
             },
             "XSS":{
                 "XSStrike":"https://github.com/s0md3v/XSStrike.git",

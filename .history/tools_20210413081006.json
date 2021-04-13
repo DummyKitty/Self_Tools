@@ -7,7 +7,7 @@
             "gobuster":"https://github.com/OJ/gobuster.git"
         },
         "CompanyAssets":{
-            "theHarvester":"https://github.com/laramies/theHarvester.git"
+            "theHarvester":"https://github.com/laramies/theHarvester.git",
         },
         "FingerPrint":{
             "Sn1per":"https://github.com/1N3/Sn1per.git",
@@ -25,8 +25,7 @@
         "SensitiveInformation":{
             "hawkeye":"https://github.com/Ice3man543/hawkeye.git",
             "LeakScraper":"https://github.com/Acceis/leakScraper.git",
-            "gitleaks":"https://github.com/zricethezav/gitleaks.git",
-            "GitHack":"https://github.com/lijiejie/GitHack.git"
+            "gitleaks":"https://github.com/zricethezav/gitleaks.git"
         },
         "SSL":{
             "sslscan":"https://github.com/rbsec/sslscan.git"
@@ -38,9 +37,7 @@
         },
         "PortScan":{
             "Nmap":{
-                "nmap-nse-scripts":"https://github.com/cldrn/nmap-nse-scripts.git",
-                "nmap-vulners":"https://github.com/vulnersCom/nmap-vulners.git",
-                "vulscan":"https://github.com/scipag/vulscan.git"
+                
             },
             "Masscan":"https://github.com/robertdavidgraham/masscan.git",
             "zgrab2":"https://github.com/zmap/zgrab2.git"
@@ -76,7 +73,7 @@
         },
         "WebApp":{
             "SQLinjection":{
-                "sqlmap":"https://github.com/sqlmapproject/sqlmap.git"
+                "sqlmap":"https://github.com/sqlmapproject/sqlmap.git",
             },
             "XSS":{
                 "XSStrike":"https://github.com/s0md3v/XSStrike.git",

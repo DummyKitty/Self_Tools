@@ -7,7 +7,7 @@
             "gobuster":"https://github.com/OJ/gobuster.git"
         },
         "CompanyAssets":{
-            "theHarvester":"https://github.com/laramies/theHarvester.git"
+            "theHarvester":"https://github.com/laramies/theHarvester.git",
         },
         "FingerPrint":{
             "Sn1per":"https://github.com/1N3/Sn1per.git",
@@ -39,8 +39,7 @@
         "PortScan":{
             "Nmap":{
                 "nmap-nse-scripts":"https://github.com/cldrn/nmap-nse-scripts.git",
-                "nmap-vulners":"https://github.com/vulnersCom/nmap-vulners.git",
-                "vulscan":"https://github.com/scipag/vulscan.git"
+                "nmap-vulners":
             },
             "Masscan":"https://github.com/robertdavidgraham/masscan.git",
             "zgrab2":"https://github.com/zmap/zgrab2.git"
@@ -76,7 +75,7 @@
         },
         "WebApp":{
             "SQLinjection":{
-                "sqlmap":"https://github.com/sqlmapproject/sqlmap.git"
+                "sqlmap":"https://github.com/sqlmapproject/sqlmap.git",
             },
             "XSS":{
                 "XSStrike":"https://github.com/s0md3v/XSStrike.git",

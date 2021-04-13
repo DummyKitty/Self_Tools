@@ -2,5 +2,6 @@
     "editor.detectIndentation": false,
     "editor.tabSize": 4,
     "editor.formatOnPaste": true,
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "python.pythonPath": "C:\\Users\\Admin\\Miniconda3\\python.exe"
 }
